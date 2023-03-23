@@ -1,10 +1,11 @@
 # ToDo
-Uma aplicação Front-end construída com a utilização de React.js, onde é possível adicionar tarefas a serem feitas por meio de um input, e marcar, quando quiser, as tarefas já concluídas.
 
-Informações técnicas:
+A Front-end application built using React.js, where you can add tasks to be done through an input, and mark, whenever you want, tasks that have already been completed.
 
--Utilização do hook useState para construção de estados.
+# Technical information:
+
+-Using the useState hook to build states.
 
 -setUp: vite js
 
--Aplicação ainda não tipada com TypeScript, futuro commit trará as mudanças.
+-Application not yet typed with TypeScript, future commit will bring the changes.
